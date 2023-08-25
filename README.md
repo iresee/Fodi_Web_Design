@@ -1,6 +1,6 @@
 # Fodi_Web_Design
 
-Fodi的Cloudflare前端,配合https://github.com/iresee/Fodi使用，可以在任意地方访问你的OneDrive文件
+Fodi的Cloudflare前端,需要配合[Fodi](https://github.com/iresee/Fodi)，可以在任意地方访问你的OneDrive文件
 
 第19行：SCF_GATEWAY填入你的后端地址
 
