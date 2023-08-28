@@ -11,3 +11,5 @@ Fodi的Cloudflare前端,需要配合[Fodi](https://github.com/iresee/Fodi)，可
 注意：
 
 SCF_GATEWAY填入你后端地址必须不被墙，才可以正常访问
+
+# 网站展示：[樱花园](https://pan.ahmu.xyz)
